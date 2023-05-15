@@ -33,4 +33,4 @@ I'm a Python + Django developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rivka-levit/greatkart-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rivka-levit&repo=greatkart-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/rivka-levit/greatkart-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rivka-levit&repo=greatkart-store&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
