@@ -28,9 +28,3 @@ I'm a Python + Django developer
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/RivkaLevit#1566" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rivka-levit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rivka-levit/greatkart-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rivka-levit&repo=greatkart-store&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
