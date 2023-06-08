@@ -7,7 +7,7 @@ I'm a Python + Django developer
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
 * 🚀  I'm currently working on [GreatKart clothing store](http://github.com/rivka-levit/greatkart-store)
-* 🧠  I'm learning Data Structures and Algorithms
+* 🧠  I'm learning Linux
 * 🤝  I'm open to collaborating on Django
 * ⚡  What else? Nuuu... meow?
 
