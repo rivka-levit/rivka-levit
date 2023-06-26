@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [GreatKart clothing store](http://github.com/rivka-levit/greatkart-store)
+* 🚀  I'm currently working on [Travelling Blog](https://github.com/rivka-levit/travelling-blog)
 * 🧠  I'm learning Linux, Docker, PyQt6
 * 🤝  I'm open to collaborating on Django
 * ⚡  What else? Nuuu... meow?
