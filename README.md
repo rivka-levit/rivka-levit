@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Recipe API](https://github.com/rivka-levit/recipe-app-api)
+* 🚀  I'm currently working on [eCommerce RestAPI App](https://github.com/rivka-levit/ecommerce-api)
 * 🧠  I'm learning Linux, Docker, PyQt6
 * 🤝  I'm open to collaborating on Django
 * ⚡  What else? Nuuu... meow?
