@@ -7,7 +7,7 @@ I'm a Python backend developer
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
 * 🚀  I'm currently working on [Blog RestAPI](https://github.com/rivka-levit/blog-api)
-* 🧠  I'm learning Automation
+* 🧠  I'm learning SQL
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
 
