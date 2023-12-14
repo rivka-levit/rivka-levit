@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Blog RestAPI](https://github.com/rivka-levit/blog-api)
+* 🚀  I'm currently working on [Bank Account Simulation](https://github.com/rivka-levit/bank-account)
 * 🧠  I'm learning SQL, Design Patterns
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
@@ -28,4 +28,4 @@ I'm a Python backend developer
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/rivkalevit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rivka-levit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/rivkalevit" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/rivkalevit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rivka-levit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
