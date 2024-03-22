@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Mod Class](https://github.com/rivka-levit/mod-class)
+* 🚀  I'm currently working on [Resource Inventory](https://github.com/rivka-levit/resource-inventory)
 * 🧠  I'm learning Design Patterns
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
