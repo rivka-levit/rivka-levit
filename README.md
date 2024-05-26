@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Jobs Scraper](https://github.com/rivka-levit/naukri-scraper)
+* 🚀  I'm currently working on [Free Images Scraper](https://github.com/rivka-levit/free-images-scraper)
 * 🧠  I'm learning Scrapy
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
