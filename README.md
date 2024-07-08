@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Medium Posts Scraper](https://github.com/rivka-levit/medium-scraper)
+* 🚀  I'm currently working on [Custom Exception (enumeration)](https://github.com/rivka-levit/exception-enum)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
