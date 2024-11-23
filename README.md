@@ -6,7 +6,7 @@ I'm a Python backend developer
 
 * 🌍  I'm based in Haifa, Israel
 * ✉️  You can contact me at [rivka.developer@gmail.com](mailto:rivka.developer@gmail.com)
-* 🚀  I'm currently working on [Pytest Study Project](https://github.com/rivka-levit/coronavstech)
+* 🚀  I'm currently working on [Subscription Platform](https://github.com/rivka-levit/subscription_platform)
 * 🧠  I'm learning JavaScript, pytest
 * 🤝  I'm open to collaborating on Django projects
 * ⚡  What else? Nuuu... meow?
